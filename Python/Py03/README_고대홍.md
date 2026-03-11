@@ -7,7 +7,7 @@
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-          <img width="685" height="800" alt="image" src="https://github.com/user-attachments/assets/4cf3626d-33af-455b-a71c-7aab0afbccdc" />
+      <img width="340" height="400" alt="image" src="https://github.com/user-attachments/assets/3dab071e-f832-4f15-bef9-0669989753e6" />
 
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
@@ -17,39 +17,30 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-          <img width="671" height="835" alt="image" src="https://github.com/user-attachments/assets/2ecd3c56-3894-41cb-88ca-cc9a00149a7d" />
+     <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/79d7ef9e-f633-41b5-a159-8e9d5ecbcf07" />
 
         
-- [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
+- [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
     - 문제 원인 및 해결 과정을 잘 기록하였는지 확인
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-          <img width="1064" height="785" alt="image" src="https://github.com/user-attachments/assets/dcc0d0ac-0808-4fce-bff9-61c5468de7f6" />
-
-          
         
-- [x]  **4. 회고를 잘 작성했나요?**
+- [ ]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-          <img width="861" height="424" alt="image" src="https://github.com/user-attachments/assets/a10aa446-09f7-42b1-9006-4c897795fa73" />
-
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-          <img width="515" height="438" alt="image" src="https://github.com/user-attachments/assets/a101b240-6643-4ca5-beb0-cbd2f842086d" />
-
+<img width="500" height="290" alt="image" src="https://github.com/user-attachments/assets/69d53b96-7d3c-4142-9529-24f60b2663f6" />
 
 
 # 회고(참고 링크 및 코드 개선)
+생각 못했던 isdigit()를 이용하여 문제를 해결하려고 했던 부분이 신선하고 흥미로웠습니다.
+주석에 각 코드의 기능을 설명해주셔서 직관적으로 쉽게 이해할 수 있었습니다.
 ```
-문제가 요구하는 모든 내용이 빠짐없이 구현되어 있습니다. 중간 중간 코드에 대한 해석과 가이드가 잘 기록되어 있어서 이해하는데에 큰 도움이 되었습니다.
-특히 코드가 왜 이렇게 작성되어있는지 잘 설명되어 있어서 아주 좋았습니다.
-Learning 스케쥴러와 checkpoints 기능을 통해 리소스를 아끼고 학습 효율을 높인 부분이 인상적이었습니다.
-```
-
